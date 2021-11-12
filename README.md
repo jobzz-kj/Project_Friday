@@ -16,4 +16,7 @@ Now let us create a folder named dao for creating a js file named gig.dao for da
 DAO is Data Access Object
 insdie the gig.dao.js file we are coding to do all the crud operation functionalities
 
+Now we are introducing a controller for the DAO. This controller is just for wrapping up the DAO i.e. the DAO has all the logic and this controller is like a handshake
+Create a folder named controller and inside that create conntroller.js
+
 
