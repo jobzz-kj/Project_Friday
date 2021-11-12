@@ -19,4 +19,8 @@ insdie the gig.dao.js file we are coding to do all the crud operation functional
 Now we are introducing a controller for the DAO. This controller is just for wrapping up the DAO i.e. the DAO has all the logic and this controller is like a handshake
 Create a folder named controller and inside that create conntroller.js
 
+Here we are using postman to check our api s working
+next I am setting up a route folder for setting up the routes: the routes has been splitted up into two folders in which the reason I will tell shortly
+So create a folder routes then create 2 files routes.js and gigs.route.js
+
 
