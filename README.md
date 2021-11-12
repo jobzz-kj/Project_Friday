@@ -10,4 +10,6 @@ Steps
 
 Create a folder config and inside that configure the js file for database
 
+Then define the schema of the database by creating another folder named model and inside that we can use the Gig.js file to define the schema
+
 
